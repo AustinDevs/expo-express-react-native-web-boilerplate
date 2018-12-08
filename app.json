@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "App Name",
+   "icon": "./src/images/react-native.png",
+   "version": "1.0.0",
+   "slug": "app-name",
+   "sdkVersion": "31.0.0",
+   "ios": {
+     "bundleIdentifier": "com.appname.app"
+   },
+   "android": {
+     "package": "com.appname.app"
+   }
+  }
+}

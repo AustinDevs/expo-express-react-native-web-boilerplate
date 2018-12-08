@@ -1,0 +1,52 @@
+{
+  "id": "a3ab3384-c81c-4245-af2b-a82264291c56",
+  "firstName": "Logan",
+  "lastName": "Herzog",
+  "facebookId": null,
+  "email": "Raphael_Sanford@gmail.com",
+  "dob": "1997-02-21",
+  "upgraded": false,
+  "address": "850 Andres Key",
+  "city": "North Derek",
+  "state": "TN",
+  "postal": "00972-1312",
+  "country": "Norway",
+  "phone": "647.675.6013",
+  "picture": "https://s3.amazonaws.com/uifaces/faces/twitter/jayphen/128.jpg",
+  "social": [
+    {
+      "url": "https://facebook.com",
+      "name": "facebook"
+    },
+    {
+      "url": "https://instagram.com",
+      "name": "instagram"
+    },
+    {
+      "url": "https://twitter.com",
+      "name": "twitter"
+    },
+    {
+      "url": "https://linkedin.com",
+      "name": "linkedin"
+    }
+  ],
+  "gender": "female",
+  "tensors": {
+    "style": "relaxed",
+    "passion": "education",
+    "activity": "dance-party",
+    "findCalm": "prayer",
+    "vacation": "travel",
+    "attribute": "educator",
+    "household": "organized",
+    "discipline": "timeout",
+    "idealMatch": "educated",
+    "personality": "laid-back",
+    "favoriteMedium": "movie",
+    "selfDescription": "private",
+    "weekendActivity": "museum"
+  },
+  "createdAt": "2018-07-08T04:53:40.508Z",
+  "updatedAt": "2018-07-08T04:53:40.508Z"
+}
