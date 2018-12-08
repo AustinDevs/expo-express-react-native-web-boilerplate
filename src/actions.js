@@ -54,7 +54,7 @@ export const fetchCurrentUser = () => {
       .then(response => response.json())
       .then(user => {
         if (!isEmpty(user)) {
-          dispatch(receiveUsers([user]));
+          dispatch(receiveUsers([omit(user, ['profiles'])]));
           dispatch(receiveCurrentUser(user.id));
           dispatch(authSuccess());
         } else fetchCurrentUserFail(dispatch);
