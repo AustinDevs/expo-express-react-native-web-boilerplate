@@ -25,9 +25,10 @@
 1. Install [Homebrew](https://brew.sh): `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 2. Install: `brew install postgresql@9.6`
 3. Start Postgres: `brew services start postgresql@9.6`
+4. Add line to your `~/.bash_profile`: `echo 'export PATH="/usr/local/opt/postgresql@9.6/bin:$PATH"' >> ~/.bash_profile`
 4. Create default database: `createdb`
 5. Install [pg Admin 4](https://www.pgadmin.org/): `brew cask install pgadmin4`
-6. Install [ngrok](https://ngrok.com/): `brew install ngrok`
+6. Install [ngrok](https://ngrok.com/): `brew csk install ngrok`
 7. Install [React Native Debugger](https://github.com/jhen0409/react-native-debugger): `brew cask install react-native-debugger`
 
 ### Windows
