@@ -27,7 +27,7 @@
 3. Start Postgres: `brew services start postgresql@9.6`
 4. Create default database: `createdb`
 5. Install [pg Admin 4](https://www.pgadmin.org/): `brew cask install pgadmin4`
-6. Install [ngrok](https://ngrok.com/): `brew install ngrok`
+6. Install [ngrok](https://ngrok.com/): `brew csk install ngrok`
 7. Install [React Native Debugger](https://github.com/jhen0409/react-native-debugger): `brew cask install react-native-debugger`
 
 ### Windows
